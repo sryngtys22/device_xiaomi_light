@@ -6,8 +6,9 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_light.mk
+    $(LOCAL_DIR)/infinity_ginkgo.mk
 
-COMMON_LUNCH_CHOICES := \
+#COMMON_LUNCH_CHOICES := \
     aosp_light-user \
     aosp_light-userdebug \
     aosp_light-eng
