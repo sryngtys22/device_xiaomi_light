@@ -107,3 +107,10 @@ ro.zygote.preload.enable=0
 zygote.critical_window.minute=10
 
 import /vendor/etc/properties/${ro.boot.product.hardware.sku}.prop
+
+#Infinity About Phone
+ro.product.marketname=Redmi 10 5G
+ro.infinity.soc=Dimensity 700
+ro.infinity.battery=4900 mAh
+ro.infinity.display=1080 x 2408, 90Hz
+ro.infinity.camera=50MP
